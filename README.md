@@ -54,7 +54,7 @@ Tenho como objetivo atuar com dados, automação e desenvolvimento de soluções
 - Geração de insights e visualizações  
 
 📌 Tecnologias: Python, Pandas, Power BI  
-🔗 Link: (colocar link)  
+🔗 Link: https://github.com/walace-dataeng/walace-da-costa-santos/blob/60508a703fbb70bc5b78a133f534c90c30d884ed/dados.csv 
 
 ---
 
