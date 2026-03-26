@@ -44,7 +44,7 @@ Tenho como objetivo atuar com dados, automação e desenvolvimento de soluções
 - Integração com ambiente cloud  
 
 📌 Tecnologias: Python, API, Pandas, SQL, Cloud  
-🔗 Link: (colocar link do projeto)  
+🔗 Link: https://github.com/walace-dataeng/walace-da-costa-santos/blob/b904d09ac62fefa32371a529cb4ffe6a34985890/main.py  
 
 ---
 
