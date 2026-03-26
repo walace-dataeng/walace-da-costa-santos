@@ -71,4 +71,4 @@ Tenho como objetivo atuar com dados, automação e desenvolvimento de soluções
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/walace-da-costa-santos-34364933a  
-- 📧 Email: walaceecosta03@gmail.co
+- 📧 Email: walaceecosta03@gmail.com
