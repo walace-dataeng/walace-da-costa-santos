@@ -21,7 +21,7 @@ Interested in scalable data solutions and cloud-based architectures.
 ## 🚀 Projects
 ETL Crypto Pipeline  
 Python ETL pipeline consuming cryptocurrency API with USD/BRL processing  
-🔗 https://github.com/walace-dataeng/etl-crypto-pipeline  
+🔗 https://github.com/walace-dataeng/etl-crypto-pipeline- 
 
 Sales Data Analysis  
 Exploratory data analysis with metrics and visualization  
