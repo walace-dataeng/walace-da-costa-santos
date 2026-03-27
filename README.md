@@ -1,74 +1,36 @@
-# 👋 Olá, eu sou Walace da Costa Santos
+# 👋 Walace da Costa Santos
 
-🎓 Estudante de Ciência da Computação com foco em Engenharia de Dados  
-📊 Interesse em transformar dados em informação estratégica  
-🚀 Buscando estágio em Engenharia de Dados  
+🎓 Computer Science Student | Aspiring Data Engineer  
+📊 Python • SQL • ETL • APIs • Cloud  
+🚀 Seeking Data Engineering Internship
 
----
+## 🧠 Summary
+Computer Science student focused on Data Engineering.  
+Experience building ETL pipelines, consuming APIs, and performing data analysis using Python and SQL.  
+Interested in scalable data solutions and cloud-based architectures.
 
-## 🧠 Sobre mim
+## ⚙️ Tech Stack
+- Python (Pandas, Requests)
+- SQL (MySQL, PostgreSQL)
+- ETL Pipelines
+- Data Analysis
+- REST APIs
+- Power BI
+- Cloud Computing (GCP basics)
 
-Sou estudante de Ciência da Computação com foco em Engenharia de Dados, desenvolvendo projetos práticos com Python e SQL voltados para construção de pipelines ETL, consumo de APIs e análise de dados.
+## 🚀 Projects
+ETL Crypto Pipeline  
+Python ETL pipeline consuming cryptocurrency API with USD/BRL processing  
+🔗 https://github.com/walace-dataeng/etl-crypto-pipeline  
 
-Tenho como objetivo atuar com dados, automação e desenvolvimento de soluções escaláveis, utilizando também tecnologias de computação em nuvem.
+Sales Data Analysis  
+Exploratory data analysis with metrics and visualization  
+🔗 https://github.com/walace-dataeng/analise-vendas-python  
 
----
+Data Collection API  
+Simple REST API for structured data delivery  
+🔗 https://github.com/walace-dataeng/api-coleta-dados  
 
-## ⚙️ Tecnologias e Ferramentas
-
-- 🐍 Python (Pandas, Requests)  
-- 🗄️ SQL (MySQL / PostgreSQL)  
-- 🔄 ETL (Extração, Transformação e Carga)  
-- 📊 Análise de Dados  
-- 🌐 APIs REST  
-- 📈 Power BI  
-- ☁️ Cloud Computing  
-
----
-
-## ☁️ Cloud
-
-- Google Cloud Platform (BigQuery, Cloud Storage)  
-- Conceitos de Data Warehouse em nuvem  
-- Integração de pipelines de dados com serviços cloud  
-
----
-
-## 🚀 Projetos
-
-### 🔹 Pipeline ETL com API de Criptomoedas
-- Coleta de dados via API  
-- Transformação com Python (Pandas)  
-- Estruturação para análise  
-- Armazenamento em banco de dados  
-- Integração com ambiente cloud  
-
-📌 Tecnologias: Python, API, Pandas, SQL, Cloud  
-🔗 Link: https://github.com/walace-dataeng/walace-da-costa-santos/blob/b904d09ac62fefa32371a529cb4ffe6a34985890/main.py  
-
----
-
-### 🔹 Análise Exploratória de Vendas
-- Limpeza e tratamento de dados  
-- Identificação de padrões de vendas  
-- Geração de insights e visualizações  
-
-📌 Tecnologias: Python, Pandas, Power BI  
-🔗 Link: https://github.com/walace-dataeng/walace-da-costa-santos/blob/60508a703fbb70bc5b78a133f534c90c30d884ed/dados.csv 
-
----
-
-### 🔹 API para Coleta de Dados
-- Desenvolvimento de API simples  
-- Retorno de dados estruturados  
-- Integração com aplicações e pipelines  
-
-📌 Tecnologias: Python  
-🔗 Link: (colocar link)  
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/walace-da-costa-santos-34364933a  
-- 📧 Email: walaceecosta03@gmail.com
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/walace-da-costa-santos-34364933a  
+Email: walaceecosta03@gmail.com
